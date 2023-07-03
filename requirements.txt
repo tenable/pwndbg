@@ -3,7 +3,7 @@ psutil==5.9.4
 pwntools==4.9.0
 pycparser==2.21
 pyelftools==0.29
-Pygments==2.13.0
+Pygments==2.15.0
 ROPGadget==7.2
 tabulate==0.8.10
 typing-extensions==4.3.0; python_version >= '3.7'
