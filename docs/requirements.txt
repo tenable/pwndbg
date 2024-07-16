@@ -19,3 +19,4 @@ psutil>=3.1.0
 python-ptrace>=0.8
 six
 unicorn>=1.0.0
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
